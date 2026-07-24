@@ -45,9 +45,10 @@ Feroz, el lobo, se siente desnutrido y famélico y quiere un sistema para simula
 - cazador
 - historiaFeliz
 - historiaNoFeliz
-- peso
-- perderUnaManzana
-- correr
-- comer
-- sufrirCrisis
-- transcurrir
+- estaSaludable()
+- peso()
+- perderUnaManzana()
+- correr()
+- comer(algo)
+- sufrirCrisis()
+- transcurrir()
