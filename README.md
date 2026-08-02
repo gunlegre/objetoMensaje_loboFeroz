@@ -39,16 +39,19 @@ Feroz, el lobo, se siente desnutrido y famélico y quiere un sistema para simula
 
 ### Glosario de nombres de objeto y mensajes obligatorios
 
+**Objetos**
 - feroz
 - caperucita
 - abuelita
 - cazador
 - historiaFeliz
 - historiaNoFeliz
-- estaSaludable()
-- peso()
-- perderUnaManzana()
-- correr()
-- comer(algo)
-- sufrirCrisis()
-- transcurrir()
+
+**Mensajes**
+- estaSaludable
+- peso
+- perderUnaManzana
+- correr
+- comer
+- sufrirCrisis
+- transcurrir
